@@ -1,8 +1,4 @@
 # Portscan-Bundle
-
-V1 - Scans Specific ports with additional info
-V2 - Scans Every port
-
 V1 Requirements
 ```
 whois
